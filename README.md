@@ -33,6 +33,7 @@ Assicurati di compilare con i flag `-std=c11 -Wall` per il rispetto dello standa
 gcc -c main.c -std=c11 -Wall
 gcc -c gamelib.c -std=c11 -Wall
 gcc -o scalogna-quest main.o gamelib.o
+```
 
 ## Come giocare
 Avvia il gioco con il comando:  
